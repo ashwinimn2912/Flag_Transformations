@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>0</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>3MVG9XhRuzJUtKtDk0LI58gTJftN5aSoG__ahg7NfHnFOHGcT9s6qmQkmrEjTXGRcLwD9C59vosdXZH7Jm4JM</client_id>
+        <client_secret>﷞﷟﷒f7f81afd938002102eda7d1efaba10c0﷬﷔1﷬﷭gJ8kzsXl9MTUW67rrEiq0w==a6PqgEzZcMInASMRKYiCFz0sqjZUOQVwowVonHipvPCE26Mpfh6H-R-EHeObFAdln-hVjUOdXn_6M0WXHfMKTQKWM1dE_x4RNZrXEuKKu9k=﷮﷯</client_secret>
+        <client_uuid>709e8f33938402102eda7d1efaba101c</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>password</default_grant_type>
+        <id_token_lifespan>0</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>0</message_signature_lifespan>
+        <name>OAuth_Salesforce</name>
+        <oauth_api_script display_value="OAuthUtil">3e3a3a11c333210016194ffe5bba8f70</oauth_api_script>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://dev203514.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt>0</salt>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-06 11:09:07</sys_created_on>
+        <sys_id>f09e8f33938402102eda7d1efaba101c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OAuth_Salesforce</sys_name>
+        <sys_package display_value="Flag Transformation - GCX" source="x_951371_flag_tran">54e30667930002102eda7d1efaba1015</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flag Transformation - GCX">54e30667930002102eda7d1efaba1015</sys_scope>
+        <sys_update_name>oauth_entity_f09e8f33938402102eda7d1efaba101c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-06 11:09:07</sys_updated_on>
+        <token_url>https://test.salesforce.com/services/oauth2/token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+</record_update>

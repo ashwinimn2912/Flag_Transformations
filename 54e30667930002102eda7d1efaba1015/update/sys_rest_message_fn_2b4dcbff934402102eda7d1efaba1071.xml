@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Post Product Catalog Changes</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Product Catalog Salesforce [ Post Product Catalog Changes ]</qualified_name>
+        <rest_endpoint>https://gcx--prodaptdev.sandbox.my.salesforce.com/services/data/v56.0/sobjects/Product2</rest_endpoint>
+        <rest_message display_value="Product Catalog Salesforce">2c2d0bff934402102eda7d1efaba1066</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-06 11:02:12</sys_created_on>
+        <sys_id>2b4dcbff934402102eda7d1efaba1071</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Post Product Catalog Changes</sys_name>
+        <sys_package display_value="Flag Transformation - GCX" source="x_951371_flag_tran">54e30667930002102eda7d1efaba1015</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flag Transformation - GCX">54e30667930002102eda7d1efaba1015</sys_scope>
+        <sys_update_name>sys_rest_message_fn_2b4dcbff934402102eda7d1efaba1071</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-06 11:02:12</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>
